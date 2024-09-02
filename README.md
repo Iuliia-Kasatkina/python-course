@@ -6,7 +6,7 @@ The purpose of the course is to develop the basic concepts of structured program
 
 The course contains 8 modules with theoretical and practical materials and assignments.
 
-##Course modules:
+## Course modules:
 
 - Data input/output
 - Conditional operator
