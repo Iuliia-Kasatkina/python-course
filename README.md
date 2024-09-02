@@ -1,6 +1,6 @@
 # Python course
 
-This project contains solutions to problems from the course "Python Generation": a course for beginners.
+This project contains solutions to problems from the course "Python Generation": a course for beginners. https://stepik.org/course/58852/syllabus
 
 The purpose of the course is to develop the basic concepts of structured programming.
 
