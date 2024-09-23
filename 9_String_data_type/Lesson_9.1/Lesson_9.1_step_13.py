@@ -12,4 +12,11 @@
 
 """
 
+s = input()
+count = 0
 
+for i in range:
+    if i * 2 in s:
+        count += 1
+
+print(count)

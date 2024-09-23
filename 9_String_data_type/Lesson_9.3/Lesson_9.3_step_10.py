@@ -15,9 +15,9 @@
 """
 
 s = input()
-s1 = 'Xорош'
+s_new = s.lower()
 
-if s1.lower() in s or s1.upper() in s or s1.swapcase() in s:
+if 'хорош' in s_new:
     print("YES")
 else:
     print("NO")
