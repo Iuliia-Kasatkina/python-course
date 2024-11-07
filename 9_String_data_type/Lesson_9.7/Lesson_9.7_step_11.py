@@ -40,6 +40,7 @@ alf_new = 'еуорахсЕТОРАНХСВМ'
 
 for i in range(len(s)):
     total_old += ord(s[i]) * 3
+
 print("Старая стоимость: ", total_old,"🐝", sep='')
 
 for i in range(len(s)):
@@ -49,4 +50,5 @@ for i in range(len(s)):
 
 for i in range(len(s)):
     total_new += ord(s[i]) * 3
+
 print("Новая стоимость: ", total_new,"🐝", sep='')
