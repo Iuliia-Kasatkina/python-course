@@ -19,7 +19,7 @@
 """
 
 s = input()
-s_max = ''
+s_max = s
 s_min = s
 
 while s != 'КОНЕЦ':
