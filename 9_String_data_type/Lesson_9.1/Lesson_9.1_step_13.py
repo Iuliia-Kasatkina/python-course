@@ -13,10 +13,14 @@
 """
 
 s = input()
+l = ''
 count = 0
 
-for i in range:
-    if i * 2 in s:
+for i in range(len(s)):
+    if s[i] == l:
         count += 1
+        l = s[i]
+    else:
+        l = s[i]
 
 print(count)
