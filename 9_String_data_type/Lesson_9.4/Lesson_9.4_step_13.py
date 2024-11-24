@@ -16,4 +16,15 @@
 
 """
 
-#in progress
+s = input()
+count_total = 0
+count = 0
+l = ''
+
+for i in range(len(s)):
+    count = s.count(s[i])
+    if count >= count_total:
+        count_total = count
+        l = s[i]
+
+print(l)
