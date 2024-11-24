@@ -12,4 +12,8 @@
 
 """
 
-#in progress
+s = input()
+s_new = ''
+
+s_new = s[:s.find('h')] + s[s.rfind('h')+1:]
+print(s_new)
